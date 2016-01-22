@@ -1,0 +1,3 @@
+Created by: Brett Ratner
+The resFileReader.cs can be ran two different ways both ending up with the same outcome. 
+1)Compile and run the resxFileReader.cs file in the command promt and the user wll be prompted with typing in the path of the files that they would like to read in and do the data extration too. Then after the "enter" button is pressed, the user will be promted to enter in the path of the final extrated files(one for english and one for spanish)
